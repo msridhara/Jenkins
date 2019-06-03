@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM msridhara/apachewithweb
 
 #RUN rm /var/www/html/index.html
 
